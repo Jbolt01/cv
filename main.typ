@@ -51,7 +51,7 @@
 == Education
 #table(
   [#strong[B.S. in Computer Science & Electrical and Computer Engineering]],
-  [#align(right)[Aug 2023–May 2026]],
+  [#align(right)[Aug 2023–May 2027]],
   [#emph[Cornell University]],
   [#emph[Ithaca, NY]],
 )
