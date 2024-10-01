@@ -101,7 +101,7 @@
 
 == Skills
 - *Languages:* Python, C, C++, Verilog, Java, OCaml, SQL, LaTeX, JavaScript, TypeScript, Matlab, Ruby
-- *Libraries:* Numpy/Pandas, PyTorch/Tensorflow, Matplotlib, Hardcaml, COSMOS, GSEOS, React
+- *Libraries:* Numpy/Pandas, PyTorch/Tensorflow, Matplotlib, COSMOS, GSEOS, React
 - *Tools:* Git/Terminal, Vivado/Quartus, GCP/AWS, Linux, Electronic Test Equipment, Soldering
 
 == Awards
